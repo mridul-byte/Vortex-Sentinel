@@ -6,6 +6,14 @@
 
 ## 🚀 Quick Setup
 ```bash
-git clone https://github.com
+git clone https://github.com/mridul-byte/Vortex-Sentinel 
 cd Vortex-Sentinel
 bash install.sh
+```
+### 🛠 fix 
+```bash
+bash scripts/fix.sh
+```
+#### 🔄 Stay Updated
+```bash
+bash scripts/update.sh
