@@ -8,7 +8,7 @@
 ```bash
 git clone https://github.com/mridul-byte/Vortex-Sentinel 
 cd Vortex-Sentinel
-bash install.sh
+python vortex.py
 ```
 ### 🛠 fix 
 ```bash
