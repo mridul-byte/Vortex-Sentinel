@@ -12,8 +12,8 @@ python vortex.py
 ```
 ### 🛠 fix 
 ```bash
-bash scripts/fix.sh
+bash fix.sh
 ```
 #### 🔄 Stay Updated
 ```bash
-bash scripts/update.sh
+bash update.sh
