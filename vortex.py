@@ -3,7 +3,7 @@ from colorama import Fore, Style
 
 # --- CONFIGURATION ---
 VERSION = "5.0.0"
-REPO_URL = "https://github.com"
+REPO_URL = "https://github.com/mridul-byte/Vortex-Sentinel"
 
 # --- 1. THE UNIVERSAL INSTALLER & DEPENDENCY MANAGER (Integrated) ---
 def bootstrap():
